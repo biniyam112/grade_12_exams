@@ -1,0 +1,2404 @@
+{
+    "2005": [{
+        "question": "1. Which of the following is NOT a basic SI unit?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Candela"
+        }, {
+            "letter": "b",
+            "option": "B. Gram"
+        }, {
+            "letter": "c",
+            "option": "C. Mole"
+        }, {
+            "letter": "d",
+            "option": "D. Second"
+        }]
+    }, {
+        "question": "2. Which of the following statements is TRUE?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ultraviolet light has longer wavelength than visible light"
+        }, {
+            "letter": "b",
+            "option": "B. The energy of radiation decreases as the wavelength decreases."
+        }, {
+            "letter": "c",
+            "option": "C. The frequency of radiation increases as the wavelength decreases."
+        }, {
+            "letter": "d",
+            "option": "D. Wave number of an electromagnetic radiation increases as wavelength increases."
+        }]
+    }, {
+        "question": "3. Which of the following ionic compounds is formed from the reaction between magnesium and nitrogen?",
+        "options": [{
+            "letter": "a",
+            "option": "A. MgN2"
+        }, {
+            "letter": "b",
+            "option": "B. Mg2N2"
+        }, {
+            "letter": "c",
+            "option": "C. Mg3N2"
+        }, {
+            "letter": "d",
+            "option": "D. Mg2N3"
+        }]
+    }, {
+        "question": "4. Which of the following molecules represents a non-polar covalent bond?",
+        "options": [{
+            "letter": "a",
+            "option": "A. B-Cl"
+        }, {
+            "letter": "b",
+            "option": "B. C-Cl"
+        }, {
+            "letter": "c",
+            "option": "C. Cl-Cl"
+        }, {
+            "letter": "d",
+            "option": "D. Mg-Cl"
+        }]
+    }, {
+        "question": "5. Which one of the following groups in the periodic table has paramagnetic atoms?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Group zero"
+        }, {
+            "letter": "b",
+            "option": "B. Group IIA"
+        }, {
+            "letter": "c",
+            "option": "C. Group IIB"
+        }, {
+            "letter": "d",
+            "option": "D. Group IVA"
+        }]
+    }, {
+        "question": "6. How many types of cubic unit cells are known?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 2"
+        }, {
+            "letter": "b",
+            "option": "B. 3"
+        }, {
+            "letter": "c",
+            "option": "C. 4"
+        }, {
+            "letter": "d",
+            "option": "D. 5"
+        }]
+    }, {
+        "question": "7. What is the process that converts liquid vegetable oils solid fats?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Hydration"
+        }, {
+            "letter": "b",
+            "option": "B. Hydrogenation"
+        }, {
+            "letter": "c",
+            "option": "C. Hydra"
+        }, {
+            "letter": "d",
+            "option": "D. Saponification"
+        }]
+    }, {
+        "question": "8. What would be the solubility of HOCH2(CH2)6CH2OH compared to CH3(CH2)6CH2OH?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Less soluble in water"
+        }, {
+            "letter": "b",
+            "option": "B. More soluble in water"
+        }, {
+            "letter": "c",
+            "option": "C. The same solubility in water."
+        }, {
+            "letter": "d",
+            "option": "D. More soluble in a non-polar solvent such as dichloroethane"
+        }]
+    }, {
+        "question": "9. Which of the following gases is manufactured using the Haber process?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ammonia"
+        }, {
+            "letter": "b",
+            "option": "B. Nitric oxide"
+        }, {
+            "letter": "c",
+            "option": "C. Nitrogen"
+        }, {
+            "letter": "d",
+            "option": "D. Nitrogen dioxide"
+        }]
+    }, {
+        "question": "10. Which one of the mixture of the following pairs will NOT give a buffer solution?",
+        "options": [{
+            "letter": "a",
+            "option": "A. HCN and NaCN"
+        }, {
+            "letter": "b",
+            "option": "B. NH3 and NH4Cl"
+        }, {
+            "letter": "c",
+            "option": "C. H3PO4 and KH2PO4"
+        }, {
+            "letter": "d",
+            "option": "D. HNO3 and NaNO3"
+        }]
+    }, {
+        "question": "11. Which one of the following is TRUE for salts formed from strong acids and strong bases?",
+        "options": [{
+            "letter": "a",
+            "option": "A. No hydrolysis takes place"
+        }, {
+            "letter": "b",
+            "option": "B. Produces ions that are proton donors"
+        }, {
+            "letter": "c",
+            "option": "C. Produces ions which are proton acceptors"
+        }, {
+            "letter": "d",
+            "option": "D. Depends on the pKa and pKa the parent aeids end bases, respectively"
+        }]
+    }, {
+        "question": "12. Which of the following metals is NOT obtained by commercial electrolytic process?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ag"
+        }, {
+            "letter": "b",
+            "option": "B. Al"
+        }, {
+            "letter": "c",
+            "option": "C. Cu"
+        }, {
+            "letter": "d",
+            "option": "D. Na"
+        }]
+    }, {
+        "question": "13. Which of the following metals has the highest electrical and thermal conductivities?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ag"
+        }, {
+            "letter": "b",
+            "option": "B. Co"
+        }, {
+            "letter": "c",
+            "option": "C. Cu"
+        }, {
+            "letter": "d",
+            "option": "D. Ni"
+        }]
+    }, {
+        "question": "14. Enthalpy is defined as the heat content of the system at constant:",
+        "options": [{
+            "letter": "a",
+            "option": "A. heat."
+        }, {
+            "letter": "b",
+            "option": "B. moles."
+        }, {
+            "letter": "c",
+            "option": "C. pressure."
+        }, {
+            "letter": "d",
+            "option": "D. volume."
+        }]
+    }, {
+        "question": "15.Which of the following elements is the second most abundant element in the earth's crust?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Aluminium"
+        }, {
+            "letter": "b",
+            "option": "B. Iron"
+        }, {
+            "letter": "c",
+            "option": "C. Oxygen"
+        }, {
+            "letter": "d",
+            "option": "D. Silicon"
+        }]
+    }, {
+        "question": "16. Which of the following plant nutrient will be produced as a result of nitrogen fixation?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Carbohydrate"
+        }, {
+            "letter": "b",
+            "option": "B. Cellulose"
+        }, {
+            "letter": "c",
+            "option": "C. Mineral"
+        }, {
+            "letter": "d",
+            "option": "D. Protein"
+        }]
+    }, {
+        "question": "17. What is the number of significant figures in 0.0030050?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 4"
+        }, {
+            "letter": "b",
+            "option": "B. 5"
+        }, {
+            "letter": "c",
+            "option": "C. 7"
+        }, {
+            "letter": "d",
+            "option": "D. 8"
+        }]
+    }, {
+        "question": "18. Which of the following properties of a substance does NOT represent an intensive physical property?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Boiling point"
+        }, {
+            "letter": "b",
+            "option": "B. Color"
+        }, {
+            "letter": "c",
+            "option": "C. Density"
+        }, {
+            "letter": "d",
+            "option": "D. Volume"
+        }]
+    }, {
+        "question": "19. What is the mass of one molecule of water?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 3.0x10-23 g"
+        }, {
+            "letter": "b",
+            "option": "B. 1.8x10-22 g"
+        }, {
+            "letter": "c",
+            "option": "C. 0.0003 g"
+        }, {
+            "letter": "d",
+            "option": "D. 18.0 g"
+        }]
+    }, {
+        "question": "20. Which of the following quantum number(s) is (are) related to the size and energy of an electron in a hydrogen atom?",
+        "options": [{
+            "letter": "a",
+            "option": "A. n"
+        }, {
+            "letter": "b",
+            "option": "B. n, l"
+        }, {
+            "letter": "c",
+            "option": "C. n, l, m"
+        }, {
+            "letter": "d",
+            "option": "D. n, I, m ,s"
+        }]
+    }, {
+        "question": "21. An electron has a spin quantum number, s = +1/2 and a magnetic quantum number, ml = +1. In which of the following orbital will it NOT be present?",
+        "options": [{
+            "letter": "a",
+            "option": "A. s-orbital"
+        }, {
+            "letter": "b",
+            "option": "B. p-orbital"
+        }, {
+            "letter": "c",
+            "option": "C. d-orbital"
+        }, {
+            "letter": "d",
+            "option": "D. f-orbital"
+        }]
+    }, {
+        "question": "22. Which of the following molecules has a trigonal bipyramidal structure?",
+        "options": [{
+            "letter": "a",
+            "option": "A. SF4"
+        }, {
+            "letter": "b",
+            "option": "B. IF5"
+        }, {
+            "letter": "c",
+            "option": "C. ICl4-"
+        }, {
+            "letter": "d",
+            "option": "D. BrF5"
+        }]
+    }, {
+        "question": "23. Which of the following represents the general configuration of the transition elements?",
+        "options": [{
+            "letter": "a",
+            "option": "A. ns2np6"
+        }, {
+            "letter": "b",
+            "option": "B. ns(n-l)d"
+        }, {
+            "letter": "c",
+            "option": "C. ns(n-2)f"
+        }, {
+            "letter": "d",
+            "option": "D. ns2np6(n-l)d10"
+        }]
+    }, {
+        "question": "24. The total number of electrons participating in the bond formation of carbonate anion, C032- , in the molecule of carbonic acid are:",
+        "options": [{
+            "letter": "a",
+            "option": "A. 16"
+        }, {
+            "letter": "b",
+            "option": "B. 10"
+        }, {
+            "letter": "c",
+            "option": "C. 8"
+        }, {
+            "letter": "d",
+            "option": "D. 5"
+        }]
+    }, {
+        "question": "25. Which of the following crystals possess high electrical and thermal conductivities?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ionic crystals"
+        }, {
+            "letter": "b",
+            "option": "B. Metallic crystals"
+        }, {
+            "letter": "c",
+            "option": "C. Molecular crystals"
+        }, {
+            "letter": "d",
+            "option": "D. Covalent network crystals"
+        }]
+    }, {
+        "question": "26. What is a valid rate expression for the following reaction?:2NO+2H2 → N2 + 2H2O",
+        "options": [{
+            "letter": "a",
+            "option": "A.  1/2 *Δ[H2]/Δt "
+        }, {
+            "letter": "b",
+            "option": "B.  -1/2 *Δ[H2O]/Δt "
+        }, {
+            "letter": "c",
+            "option": "C.  -1/2 *Δ[NO]/Δt "
+        }, {
+            "letter": "d",
+            "option": "D.  -1/2 *Δ[N2]/Δt "
+        }]
+    }, {
+        "question": "27. Which the following statements is TRUE about equilibrium reaction?",
+        "options": [{
+            "letter": "a",
+            "option": "A. NO more reactants are transformed into products."
+        }, {
+            "letter": "b",
+            "option": "B. There are equal amounts of reactants and products."
+        }, {
+            "letter": "c",
+            "option": "C. The rate constant for the forward reactions equals that of the reverse reaction"
+        }, {
+            "letter": "d",
+            "option": "D. The rate for the forward reactions equals that Of the reverse reactions"
+        }]
+    }, {
+        "question": "28. Three gases are in equilibrium in a closed chamber sealed with a piston. The following equilibrium is established:2NH3(g) ⇌ N2(g) + 3H2(g):What will happen if the piston is pushed into the chamber?",
+        "options": [{
+            "letter": "a",
+            "option": "A. The mole fraction of N2 increases"
+        }, {
+            "letter": "b",
+            "option": "B. The mole of N2 decreases"
+        }, {
+            "letter": "c",
+            "option": "C. The mole fraction of N2 remains the same"
+        }, {
+            "letter": "d",
+            "option": "D. The mole fraction of N2 increases and then decreases"
+        }]
+    }, {
+        "question": "29. Which of the following reactions will produce an alkyl carboxylic acid?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Heating a methyl ketone with acid and iodine."
+        }, {
+            "letter": "b",
+            "option": "B. Reacting an alkyl halide with hydrogen gas and platinum."
+        }, {
+            "letter": "c",
+            "option": "C. Reacting an alcohol with ozone."
+        }, {
+            "letter": "d",
+            "option": "D. Oxidatien of a primary alcohol with hot permanganate or chromate"
+        }]
+    }, {
+        "question": "30. Which Of the following statements is NOT TRUE?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Naturally derived soaps consist of a soluble salt of a long chain fatty acid."
+        }, {
+            "letter": "b",
+            "option": "B. Triacylglycerols are esters of glycerol and long chain carboxylic acids."
+        }, {
+            "letter": "c",
+            "option": "C. Long chain carboxylic acids are also known as fatty acids."
+        }, {
+            "letter": "d",
+            "option": "D. The major acidic component of Vinegar is formic acid."
+        }]
+    }, {
+        "question": "31. What is the name of triacylglycerol (triglycerides) that is solid at room temperature?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Lecithin"
+        }, {
+            "letter": "b",
+            "option": "B. Fat"
+        }, {
+            "letter": "c",
+            "option": "C. Wax"
+        }, {
+            "letter": "d",
+            "option": "D. Oil"
+        }]
+    }, {
+        "question": "32. Which of the following is the most important type of solute-solvent interaction in a solution of n-butanol in water?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Dispersion"
+        }, {
+            "letter": "b",
+            "option": "B. Ion-dipole"
+        }, {
+            "letter": "c",
+            "option": "C. Dipole-dipole"
+        }, {
+            "letter": "d",
+            "option": "D. Hydrogen bonding"
+        }]
+    }, {
+        "question": "33. What is the product of the hydrolysis of easters in the presence of a mineral acid catalyst?",
+        "options": [{
+            "letter": "a",
+            "option": "A. alcohol"
+        }, {
+            "letter": "b",
+            "option": "B. carbon dioxide"
+        }, {
+            "letter": "c",
+            "option": "C. ether"
+        }, {
+            "letter": "d",
+            "option": "D. ketones"
+        }]
+    }, {
+        "question": "34. To which organic functional group does the following molecular representation, i.e., R1R2CHCOH belong? (R1 and R2 represent different alkyl chains)",
+        "options": [{
+            "letter": "a",
+            "option": "A. Amides"
+        }, {
+            "letter": "b",
+            "option": "B. Aldehyde"
+        }, {
+            "letter": "c",
+            "option": "C. Ethers"
+        }, {
+            "letter": "d",
+            "option": "D. Organic acids"
+        }]
+    }, {
+        "question": "35. What is the quantity of water, in mL, required to prepare 0.5 M of HCl from a concentrated solution of 3.5 M in 50 mL is?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 50 mL"
+        }, {
+            "letter": "b",
+            "option": "B. 100 mL"
+        }, {
+            "letter": "c",
+            "option": "C. 300 mL"
+        }, {
+            "letter": "d",
+            "option": "D. 350 mL"
+        }]
+    }, {
+        "question": "36. What is the equivalent weight of HNO3 , as an oxidizing agent, in the following balanced reaction?:3Fe2+ 4H+ + NO3 → 3Fe3+ + NO + 2H2O",
+        "options": [{
+            "letter": "a",
+            "option": "A. 10.50"
+        }, {
+            "letter": "b",
+            "option": "B. 15.75"
+        }, {
+            "letter": "c",
+            "option": "C. 21.00"
+        }, {
+            "letter": "d",
+            "option": "D. 31.50"
+        }]
+    }, {
+        "question": "37. Given the following equilibria and equilibrium constants:(I) HC2H3O2 + H2O ⇄ H3O+ +C2H3O2-; Ka = 1.80 X 10-5:(II) H2CO3 + H2O ⇄ H3O+ + HCO3-; Ka = 4.2 X 10-7:(III) NH4+ + H2O ⇄ H3O+ + NH3;Ka = 5.6 X 10-10:(IV) HCOOH + H2O ⇄ H3O+ + COOH-;Ka = 1.8 X 10-4:What is the strength of the acids in DECEASING order?",
+        "options": [{
+            "letter": "a",
+            "option": "A. I, IV, II and III"
+        }, {
+            "letter": "b",
+            "option": "B. I, III, IV and I"
+        }, {
+            "letter": "c",
+            "option": "C. III, I, I and IV"
+        }, {
+            "letter": "d",
+            "option": "D. IV, I, II and III"
+        }]
+    }, {
+        "question": "38. Given the reaction: H2PO4- + H2O → H3O+ + HPO42-  :Which of the following represents a conjugate acid-base pair?",
+        "options": [{
+            "letter": "a",
+            "option": "A. H2PO4- and H2O"
+        }, {
+            "letter": "b",
+            "option": "B. H2PO4- and HPO42-"
+        }, {
+            "letter": "c",
+            "option": "C. H2PO4- and H3O+"
+        }, {
+            "letter": "d",
+            "option": "D. H2O and HPO42-"
+        }]
+    }, {
+        "question": "39. Which of the following statements is TRUE about colligative properties?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Both vapor pressure and freezing point increase when a non-volatile solute is added to a solvent."
+        }, {
+            "letter": "b",
+            "option": "B. Both freezing point and boiling point increase when a non-volatile solute is added to a solvent."
+        }, {
+            "letter": "c",
+            "option": "C. Both vapor pressure and boiling point decrease when a non-volatile solute is added to a solvent."
+        }, {
+            "letter": "d",
+            "option": "D. Colligative properties depend only upon the number of solute particles in a solution and NOT upon their identity."
+        }]
+    }, {
+        "question": "40. What is the pH of 0.005 M solution of Ca(OH)2?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 2.3"
+        }, {
+            "letter": "b",
+            "option": "B. 10"
+        }, {
+            "letter": "c",
+            "option": "C. 12"
+        }, {
+            "letter": "d",
+            "option": "D. 14"
+        }]
+    }, {
+        "question": "41. The indicator Bromthymol Blue (HBb is a weak acid with Ka = 1.0 x 10-7 ionizes as follows:  HBb(aq, yellow) ⇌ H+(aq, colourless) + In- (aq, blue):    Which way will the equilibrium shift when NaOH is added and what will the colour of the NaOH solution be containing this indicator?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Equilibrium will shift to the right and the color of NaOH solution will turn green."
+        }, {
+            "letter": "b",
+            "option": "B. Equilibrium will shift to the right and the color of NaOH solution will turn blue."
+        }, {
+            "letter": "c",
+            "option": "C. Equilibrium will shift to the left and the color of NaOH solution will turn yellow."
+        }, {
+            "letter": "d",
+            "option": "D. Equilibrium will shift to the left and the color of NaOH solution will turn blue."
+        }]
+    }, {
+        "question": "42. How many kilojoules of heat are absorbed when 20 g of NaCl (s) is decomposed into Na (s) and Cl2 (g) at constant pressure according to the following reaction?: 2Na (s) + Cl2 (g) → 2NaCl(s) ΔH = -821.8 kJ",
+        "options": [{
+            "letter": "a",
+            "option": "A. -281.0"
+        }, {
+            "letter": "b",
+            "option": "B. -140.5"
+        }, {
+            "letter": "c",
+            "option": "C. +140.5"
+        }, {
+            "letter": "d",
+            "option": "D. +281.0"
+        }]
+    }, {
+        "question": "43. In the electroplating of nickel from a solution containing Ni2+ ion, what will be the weight of the metal deposited on the cathode by a current of 8A flowing for 500 minutes?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 73 g"
+        }, {
+            "letter": "b",
+            "option": "B. 103 g"
+        }, {
+            "letter": "c",
+            "option": "C. 117.4 g"
+        }, {
+            "letter": "d",
+            "option": "D. 145 g"
+        }]
+    }, {
+        "question": "44. A 1M solution of Cu(N03)2 is placed in a beaker with a strip of Cu, metal. A 1M of SnSO4 is placed in a second beaker with a strip of Sn metal. The two beakers are then connected by a salt bridge and the two metal electrodes are connected by wires to a voltammeter. Which of the following electrode serves as the anode and which electrode gains mass?: Given that E0 Cu2+/Cu = 0.34V and E0sn2+/Sn=-0.14V",
+        "options": [{
+            "letter": "a",
+            "option": "A. Anode, Sn, Sn electrode gains mass"
+        }, {
+            "letter": "b",
+            "option": "B. Anode, Sn, Cu electrode gains mass"
+        }, {
+            "letter": "c",
+            "option": "C. Anode, Cu, Sn electrode gains mass"
+        }, {
+            "letter": "d",
+            "option": "D. Anode, Cu, Cu electrode gains mass"
+        }]
+    }, {
+        "question": "45. Which Of the following metal alloys does NOT contain tin?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Brass"
+        }, {
+            "letter": "b",
+            "option": "B. Bronze"
+        }, {
+            "letter": "c",
+            "option": "C. Pewter"
+        }, {
+            "letter": "d",
+            "option": "D. Plumber's solder"
+        }]
+    }, {
+        "question": "46. What structural feature is usually needed, to present in order for an addition polymer to be produced?",
+        "options": [{
+            "letter": "a",
+            "option": "A. A carbon-carbon sigma bonds"
+        }, {
+            "letter": "b",
+            "option": "B. A carbon-oxygen pi bond."
+        }, {
+            "letter": "c",
+            "option": "C. A carbon-oxygen sigma bond."
+        }, {
+            "letter": "d",
+            "option": "D. A carbon-carbon pi bond."
+        }]
+    }, {
+        "question": "47. What are the raw materials required to synthesize nylon 6,6, a specific kind of nylon?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Diacids"
+        }, {
+            "letter": "b",
+            "option": "B. Diamines"
+        }, {
+            "letter": "c",
+            "option": "C. Diacids and Diamines"
+        }, {
+            "letter": "d",
+            "option": "D. Polyethylene"
+        }]
+    }, {
+        "question": "48. Which of the following substances are added to natural rubber to toughen it?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Calcium"
+        }, {
+            "letter": "b",
+            "option": "B. Carbon"
+        }, {
+            "letter": "c",
+            "option": "C. Nitrogen"
+        }, {
+            "letter": "d",
+            "option": "D. Sulfur"
+        }]
+    }, {
+        "question": "49. What is the quantity of heat required to raise the temperature of 80 g of ethanol from 25°C to 75°C? (specific heat of ethanol = 2.46 J g-1 K-1)",
+        "options": [{
+            "letter": "a",
+            "option": "A. 2.46 kJ"
+        }, {
+            "letter": "b",
+            "option": "B. 4.0 kJ"
+        }, {
+            "letter": "c",
+            "option": "C. 9.84 kJ"
+        }, {
+            "letter": "d",
+            "option": "D. 18.68 kJ"
+        }]
+    }, {
+        "question": "50. Consider the following gaseous reaction at 25°C::CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) ΔH : -802 kJ Which energy change would occur if 3.2 moles of CH4 is completely combusted?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 2.57 X 102 kJ will be released."
+        }, {
+            "letter": "b",
+            "option": "B. 2.57 x 102 kJ will be absorbed."
+        }, {
+            "letter": "c",
+            "option": "C. 6.43 x 103 kJ will be released."
+        }, {
+            "letter": "d",
+            "option": "D. 6.43 x 103 kJ will be absorbed."
+        }]
+    }, {
+        "question": "51. What is the number of chloride ions (Cl-) present in 1.0 x 10-5 mol of AlCl3?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 1.80 x 1019"
+        }, {
+            "letter": "b",
+            "option": "B. 6.02 x 1018"
+        }, {
+            "letter": "c",
+            "option": "C. 6.02 x 1023"
+        }, {
+            "letter": "d",
+            "option": "D. 6.02 x 1028"
+        }]
+    }, {
+        "question": "52. Which of the following is the most important ingredients used for production of DAP fertilizer?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Ammonia and phosphoric acid."
+        }, {
+            "letter": "b",
+            "option": "B. Nitric acid, urea and phosphoric acid."
+        }, {
+            "letter": "c",
+            "option": "C. Phosphoric acid, urea and ammonia."
+        }, {
+            "letter": "d",
+            "option": "D. Sulphuric acid, ammonia and urea."
+        }]
+    }, {
+        "question": "53. Which of the following biomolecules forms a zwitterion at higher or lower pH?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Cellulose"
+        }, {
+            "letter": "b",
+            "option": "B. Glucose"
+        }, {
+            "letter": "c",
+            "option": "C. Protein"
+        }, {
+            "letter": "d",
+            "option": "D. Starch"
+        }]
+    }, {
+        "question": "54.Which of the following form of synthetic rubbers can be vulcanized to greatly enhance its mechanical strength?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Noeprene"
+        }, {
+            "letter": "b",
+            "option": "B. Isoprene"
+        }, {
+            "letter": "c",
+            "option": "C. Styrene-butadiene rubber"
+        }, {
+            "letter": "d",
+            "option": "D. Butyl rubber"
+        }]
+    }, {
+        "question": "55. What is the range in the number of carbon atoms of the monosaccharides that are found in nature?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 3 to 7"
+        }, {
+            "letter": "b",
+            "option": "B. 4 to 10"
+        }, {
+            "letter": "c",
+            "option": "C. 4 to 12"
+        }, {
+            "letter": "d",
+            "option": "D. 5 to 12"
+        }]
+    }, {
+        "question": "56. What are the two principal polysaccharide forms of starch?",
+        "options": [{
+            "letter": "a",
+            "option": "A. aldohexose and ketopentose"
+        }, {
+            "letter": "b",
+            "option": "B. amylose and amylopectin"
+        }, {
+            "letter": "c",
+            "option": "C. maltose and cellobiose"
+        }, {
+            "letter": "d",
+            "option": "D. sucrose and lactose"
+        }]
+    }, {
+        "question": "57. What is the Kelvin scale (K) corresponding to the temperature readings when the degree Celsius (oC. is identical to the degree Fahrenheit (OF)?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 0 K"
+        }, {
+            "letter": "b",
+            "option": "B. 37 K"
+        }, {
+            "letter": "c",
+            "option": "C. 233 K"
+        }, {
+            "letter": "d",
+            "option": "D. 273 K"
+        }]
+    }, {
+        "question": "58. What is the wavelength associated with an electron of mass, m = 9.11 x 10-28 g, travelling at 40% of the velocity of light?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 6.06 x 10-15 m"
+        }, {
+            "letter": "b",
+            "option": "B. 2.42 x 10-15 m"
+        }, {
+            "letter": "c",
+            "option": "C. 6.06 x 10-12 m"
+        }, {
+            "letter": "d",
+            "option": "D. 2.42 x 10-11 m"
+        }]
+    }, {
+        "question": "59. The quantum numbers listed below are meant for four different electrons in an atom:I. n = 4, l =0, ml = 0,ms = +1/2:II. n = 3, l =1, ml = 1,ms = +1/2:III. n = 4, l =2, ml = 0,ms = +1/2:IV. n = 4, l =1, ml = 0,ms = +1/2",
+        "options": [{
+            "letter": "a",
+            "option": "A.I<H<III<IV"
+        }, {
+            "letter": "b",
+            "option": "B.I<III<II<IV"
+        }, {
+            "letter": "c",
+            "option": "C.II<I<III<IV"
+        }, {
+            "letter": "d",
+            "option": "D.IV<III<II<I"
+        }]
+    }, {
+        "question": "60. Which of the following hybrid orbitals is favoring the formation of trigonal bipyramidal?",
+        "options": [{
+            "letter": "a",
+            "option": "A. sp3d"
+        }, {
+            "letter": "b",
+            "option": "B. sp3"
+        }, {
+            "letter": "c",
+            "option": "C. sp3d2"
+        }, {
+            "letter": "d",
+            "option": "D. sp3d3"
+        }]
+    }, {
+        "question": "61. Which one of the following molecules/molecular ions is paramagnetic according to the molecular orbital theory?",
+        "options": [{
+            "letter": "a",
+            "option": "A. O22-"
+        }, {
+            "letter": "b",
+            "option": "B. O2"
+        }, {
+            "letter": "c",
+            "option": "C. F2"
+        }, {
+            "letter": "d",
+            "option": "D. O22+"
+        }]
+    }, {
+        "question": "62. For the reaction:   2A + B → C:    The following experimental results were obtained:  ",
+        "options": [{
+            "letter": "a",
+            "option": "A. 0.6 mol L-1S-1"
+        }, {
+            "letter": "b",
+            "option": "B. 0.6 L mol L-1S-1"
+        }, {
+            "letter": "c",
+            "option": "C. 1.2 L mol L-1S-1"
+        }, {
+            "letter": "d",
+            "option": "D. 2.4 L mol L-1S-1"
+        }]
+    }, {
+        "question": "63. Increase in temperature of rate of a given reaction is due to the increase in the:",
+        "options": [{
+            "letter": "a",
+            "option": "A. extent of molecular dissociation."
+        }, {
+            "letter": "b",
+            "option": "B. activation energy of the reaction."
+        }, {
+            "letter": "c",
+            "option": "C. frequency of collision of the reacting species."
+        }, {
+            "letter": "d",
+            "option": "D. numerical value of the rate constant of the reaction."
+        }]
+    }, {
+        "question": "64. If a piece of aluminium (Al) foil measuring 24 cm by 31 cm has a mass of 10.35 g, (density of Al = 2.70 g cm-3). What is the thickness of the foil in millimetres?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 5.15 x 10-3"
+        }, {
+            "letter": "b",
+            "option": "B. 5.15 x 10-2"
+        }, {
+            "letter": "c",
+            "option": "C. 3.833"
+        }, {
+            "letter": "d",
+            "option": "D. 744"
+        }]
+    }, {
+        "question": "65. What sizes of particles and velocities can one consider quantum effect?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Particles with very large mass and large velocities."
+        }, {
+            "letter": "b",
+            "option": "B. Particles with large mass and small velocities."
+        }, {
+            "letter": "c",
+            "option": "C. Particles with very small mass and large velocities."
+        }, {
+            "letter": "d",
+            "option": "D. Particles with small mass and small velocities."
+        }]
+    }, {
+        "question": "66. Which of the following molecules has a dipole moment?",
+        "options": [{
+            "letter": "a",
+            "option": "A. XeF4"
+        }, {
+            "letter": "b",
+            "option": "B. H2 S"
+        }, {
+            "letter": "c",
+            "option": "C. SO3"
+        }, {
+            "letter": "d",
+            "option": "D. CH4"
+        }]
+    }, {
+        "question": "67. The reaction for the formation of nitrosyl chloride:    2N0 (g) + Cl2 (g) ⇌ 2NOCl(g)  was studied at 25°C. The value of Kp for this reaction at 25°C is 1.9 x 103 atm-1. What is the value of K at 25°C?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 1.9x10-3 L/mol"
+        }, {
+            "letter": "b",
+            "option": "B. 3.8x10-3 L/mol"
+        }, {
+            "letter": "c",
+            "option": "C. 4.6 x 104 L/mol"
+        }, {
+            "letter": "d",
+            "option": "D. 4.6 x 105 L/mol"
+        }]
+    }, {
+        "question": "68. Which of the following reactions will convert carboxylic acids to primary amines?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Decarboxylation with HBr and peroxide, then reaction of the alkyl bromide with ammonia."
+        }, {
+            "letter": "b",
+            "option": "B. Reduction of the acid to the alcohol with NaOH/formaldehyde, then reaction with ammonium chloride and heat."
+        }, {
+            "letter": "c",
+            "option": "C. A two-step conversion, first to the amide with ammonia and heat, and then by reduction with lithium aluminium hydride or hydrogen plus catalyst."
+        }, {
+            "letter": "d",
+            "option": "D. Lactase fermentation in the presence of ammonia atmospheres"
+        }]
+    }, {
+        "question": "69. A solution was prepared by adding 48 g of methanol (CH3OH) into 81 g of water (H20). What is the mole fraction of methanol in this solution?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 0.25"
+        }, {
+            "letter": "b",
+            "option": "B. 0.75"
+        }, {
+            "letter": "c",
+            "option": "C. 1.5"
+        }, {
+            "letter": "d",
+            "option": "D. 4.5"
+        }]
+    }, {
+        "question": "70. A solution was prepared by dissolving 3.75 g of pure hydrocarbon in 95.0 g of cyclohexane. The boiling point of pure cyclohexane was observed to be 80.70°C and that of the solution was 81.45°C. What is the approximate molecular weight of the hydrocarbon?(Kb for cyclohexane = 2.79°C/m)",
+        "options": [{
+            "letter": "a",
+            "option": "A. 71.0 g/mol"
+        }, {
+            "letter": "b",
+            "option": "B. 105 g/mol"
+        }, {
+            "letter": "c",
+            "option": "C. 147 g/mol"
+        }, {
+            "letter": "d",
+            "option": "D. 312 g/mol"
+        }]
+    }, {
+        "question": "71. A 50 mL solution of H2SO4 of 0.205 M is titrated with NaOH solution of unknown concentration. The endpoint against phenolphthalein indicator was signaled when 41.0 mL of NaOH was added. What is the concentration of NaOH solution?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 0.10 M"
+        }, {
+            "letter": "b",
+            "option": "B. 0.25 M"
+        }, {
+            "letter": "c",
+            "option": "C. 0.41 M"
+        }, {
+            "letter": "d",
+            "option": "D. 0.50 M"
+        }]
+    }, {
+        "question": "72. To 0.2 M solution of a weak monoprotic acid, HA, enough quantity of its sodium salt, NaA, was dissolved to give a concentration of 0.2 M of the salt. What will be the acid concentration, [H3O+] in the final Solutions? (Ka of HA = 1.80 x 10-5)",
+        "options": [{
+            "letter": "a",
+            "option": "A. 3.60 x 10-6 M"
+        }, {
+            "letter": "b",
+            "option": "B. 1.00 x 10-5 M"
+        }, {
+            "letter": "c",
+            "option": "C. 1.80 x 10-5 M"
+        }, {
+            "letter": "d",
+            "option": "D. 1.90 x 10-3 M"
+        }]
+    }, {
+        "question": "73.Gaseous petrol in a combustion system has done 375 kJ of work during its expansion in the piston. Simultaneously, it absorbed 586 kJ of heat from the engine. What is the internal energy change during the process?",
+        "options": [{
+            "letter": "a",
+            "option": "A. +211 kJ"
+        }, {
+            "letter": "b",
+            "option": "B. +961 kJ"
+        }, {
+            "letter": "c",
+            "option": "C. -211 kJ"
+        }, {
+            "letter": "d",
+            "option": "D. -961 kJ"
+        }]
+    }, {
+        "question": "74. Which of the following reactions is expected to have negative value of entropy change (AS)?",
+        "options": [{
+            "letter": "a",
+            "option": "A. C6H6(s) + 6O2(g) → 6CO2(g) + 6H2O(l)"
+        }, {
+            "letter": "b",
+            "option": "B. CaCO3(s) → CaO(s) + CO2(g)"
+        }, {
+            "letter": "c",
+            "option": "C. N2O4(g) + Cl2(g) → 2NOCl(g)+ O2(g)"
+        }, {
+            "letter": "d",
+            "option": "D. 2SO2(g) + O2(g) → 2SO3(g)"
+        }]
+    }, {
+        "question": "75. Consider the following unbalanced redox reaction in acidic solution:",
+        "options": [{
+            "letter": "a",
+            "option": "What is the change in oxidation state for both the substances oxidized and reduced, and the coefficients of Fe2+ and Mn2+, respectively, after balancing?"
+        }, {
+            "letter": "b",
+            "option": ""
+        }, {
+            "letter": "c",
+            "option": "A. 2 and 7, and 2 and 5"
+        }, {
+            "letter": "d",
+            "option": "B. 3 and 2, and 5 and l"
+        }]
+    }, {
+        "question": "76. How many mL conc. HNO3 and how many mL of water are required to prepare 500 mL of 0.1 M HN03 from a conc. 13 M HNO3 ?",
+        "options": [{
+            "letter": "a",
+            "option": "A. 1 mL HNO3 and 496.15 mL H2O"
+        }, {
+            "letter": "b",
+            "option": "B. 3 mL HNO3and 500 mL H2O"
+        }, {
+            "letter": "c",
+            "option": "C. 3.85 mL HNO3 and 500 mL H2O"
+        }, {
+            "letter": "d",
+            "option": "D. 3.85 mL HNO3 and 496.15 mL H2O"
+        }]
+    }, {
+        "question": "77. What is the pH of an aqueous solution prepared to contain 1.3 x 10-3 M sodium nitrite (NaNO2) if the acid dissociation equilibrium constants, Ka, for nitrous acid (HNO2) is 5.1 X 10-4 ?:  KW = 1.0 x 10-14",
+        "options": [{
+            "letter": "a",
+            "option": "A. 3.1"
+        }, {
+            "letter": "b",
+            "option": "B. 5.1"
+        }, {
+            "letter": "c",
+            "option": "C. 6.0"
+        }, {
+            "letter": "d",
+            "option": "D. 7.3"
+        }]
+    }, {
+        "question": "78. What reactions occur at the anode and cathode when an aqueous solution of Na2SO4 is electrolyzed?",
+        "options": [{
+            "letter": "a",
+            "option": "A. H2 at cathode and O2 at anode"
+        }, {
+            "letter": "b",
+            "option": "B. Na at cathode and S2O82- at anode"
+        }, {
+            "letter": "c",
+            "option": "C. H2 at cathode and, S2O82- at anode"
+        }, {
+            "letter": "d",
+            "option": "D. Na at cathode and O2 at anode"
+        }]
+    }, {
+        "question": "79. Which synthetic polymer is produced from Caprolactam?",
+        "options": [{
+            "letter": "a",
+            "option": "A. Nylon-6"
+        }, {
+            "letter": "b",
+            "option": "B. Nylon 6.10"
+        }, {
+            "letter": "c",
+            "option": "C. Teflon"
+        }, {
+            "letter": "d",
+            "option": "D. Terylene"
+        }]
+    }, {
+        "question": "80. For the following hypothetical equation, in aqueous solution, what is the correct representation of the cell NOTation?: A(s) + B2+(aq) → A2+(aq) + B(s)",
+        "options": [{
+            "letter": "a",
+            "option": "A. A(s) | A2+(aq) || B2+(aq) | B(s)"
+        }, {
+            "letter": "b",
+            "option": "B. B2+(aq) | B(s) || A2+(aq) | A(s)"
+        }, {
+            "letter": "c",
+            "option": "C. A2+(aq) | A(s) || B(s) | B2+(aq)"
+        }, {
+            "letter": "d",
+            "option": "D. B(s) | B2+(aq) || A2+(aq) | A(s)"
+        }]
+    }],
+    "2006": [{
+        "question": "1. Commercially, liquid vegetable oils are converted to solid fats such as margarine by:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Hydrogenation"
+        }, {
+            "letter": "b",
+            "option": "(B) Hydration"
+        }, {
+            "letter": "c",
+            "option": "(C) Saponification"
+        }, {
+            "letter": "d",
+            "option": "(D) Oxidation"
+        }]
+    }, {
+        "question": "2. What is the chemical name for Aspirin?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Acetyl salicylic acid"
+        }, {
+            "letter": "b",
+            "option": "(B) Salicylic acid"
+        }, {
+            "letter": "c",
+            "option": "(C) Methyl salicylate"
+        }, {
+            "letter": "d",
+            "option": "(D) Sodium salicylate"
+        }]
+    }, {
+        "question": "3. Which of the following statement(s) is (are) true of an ideal liquid-liquid solution    :   I. It obeys PV = nRT.    :   II. It obeys Raoult's law.    :   III. Solute-solute, solvent-solvent, and solute-solvent interactions are Very similar.    :   IV. Solute-solute, solvent-solvent, and solute-solvent interactions are quite different.",
+        "options": [{
+            "letter": "a",
+            "option": "(A) I, II and III"
+        }, {
+            "letter": "b",
+            "option": "(B) I, II and IV"
+        }, {
+            "letter": "c",
+            "option": "(C) II and III"
+        }, {
+            "letter": "d",
+            "option": "(D) II and IV"
+        }]
+    }, {
+        "question": "4. Which of the following is correct?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1L=1dm3"
+        }, {
+            "letter": "b",
+            "option": "(B) 1L=10dm3"
+        }, {
+            "letter": "c",
+            "option": "(C) 10L=1dm3"
+        }, {
+            "letter": "d",
+            "option": "(D) 1L=1m3"
+        }]
+    }, {
+        "question": "5. Which of the following is NOT a conjugate acid-base pair?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) HNO3/NO3-"
+        }, {
+            "letter": "b",
+            "option": "(B) H2SO4/HSO4-"
+        }, {
+            "letter": "c",
+            "option": "(C) NH3/NH2-"
+        }, {
+            "letter": "d",
+            "option": "(D) H3O+/OH-"
+        }]
+    }, {
+        "question": "6. Which electron transition in a hydrogen atom releases the largest energy?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) n=2 → n=1"
+        }, {
+            "letter": "b",
+            "option": "(B) n=6 → n=3"
+        }, {
+            "letter": "c",
+            "option": "(C) n=4 → n=2"
+        }, {
+            "letter": "d",
+            "option": "(D) n=7 → n=6"
+        }]
+    }, {
+        "question": "7. The simplest formula for a compound containing Mn+4 and O2-sup> is:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) MnO"
+        }, {
+            "letter": "b",
+            "option": "(B) MnO2"
+        }, {
+            "letter": "c",
+            "option": "(C) Mn2O4"
+        }, {
+            "letter": "d",
+            "option": "(D) Mn4O2"
+        }]
+    }, {
+        "question": "8. The unit cell in a certain lattice consists of a cube formed by an anion at each corner, an anion, in the center, and a cation at the center of each face. How many cations and how many anions does the unit cell have?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 5 anions and 6 cations."
+        }, {
+            "letter": "b",
+            "option": "(B) 5 anions and 3 cations."
+        }, {
+            "letter": "c",
+            "option": "(C) 2 anions and 3 cations."
+        }, {
+            "letter": "d",
+            "option": "(D) 3 anions and 4 cations."
+        }]
+    }, {
+        "question": "9. In a reaction, A + B → Product, the rate is doubled when the concentration of B is doubled, and the rate increases by a factor of 8 when the concentrations of both the reactants (A and B) are doubled, the rate law for the reaction can be written as:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Rate= k[A][B]"
+        }, {
+            "letter": "b",
+            "option": "(B) Rate= k[A][B]2"
+        }, {
+            "letter": "c",
+            "option": "(C) Rate= k [A]2[B]"
+        }, {
+            "letter": "d",
+            "option": "(D) Rate= k [A]2[B]2"
+        }]
+    }, {
+        "question": "10. Answer the following question using the phase diagram below.    At which point can only the solid and liquid phases coexist?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1"
+        }, {
+            "letter": "b",
+            "option": "(B) 2"
+        }, {
+            "letter": "c",
+            "option": "(C) 3"
+        }, {
+            "letter": "d",
+            "option": "(D) 4"
+        }]
+    }, {
+        "question": "11. Butane burns in oxygen according to equation below: 2C4H10(g) + 13O2(g) → 8CO2(g)+10H2(l):   if 11.6 g of butane is burned in 11.6 g of oxygen. which is the limiting reagent?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Butane"
+        }, {
+            "letter": "b",
+            "option": "(B) Oxygen"
+        }, {
+            "letter": "c",
+            "option": "(C) Neither"
+        }, {
+            "letter": "d",
+            "option": "(D) Both Oxygen and butane"
+        }]
+    }, {
+        "question": "12. A beaker filled to the 100 mL mark with salt (the salt has a mass of 100 g) and another beaker to the 100 mL mark with water (the water has a mass of 100 g) are mixed together in a bigger beaker until the salt is completely dissolved. What will be the mass of the solution?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) It will be much more than 200 g."
+        }, {
+            "letter": "b",
+            "option": "(B) It will be much smaller than 200 g."
+        }, {
+            "letter": "c",
+            "option": "(C) It will be exactly 200 g."
+        }, {
+            "letter": "d",
+            "option": "(D) It will be slightly more than 200 g."
+        }]
+    }, {
+        "question": "13. What is the ratio of the energy of a photon of 300 nm wavelength radiation to that of 600 nm radiation?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1:2"
+        }, {
+            "letter": "b",
+            "option": "(B) 1:1"
+        }, {
+            "letter": "c",
+            "option": "(C) 2:1"
+        }, {
+            "letter": "d",
+            "option": "(D) 3:1"
+        }]
+    }, {
+        "question": "14. Which one of the following is NOT an intensive property?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Mass"
+        }, {
+            "letter": "b",
+            "option": "(B) Temperature"
+        }, {
+            "letter": "c",
+            "option": "(C) Colour"
+        }, {
+            "letter": "d",
+            "option": "(D) Density"
+        }]
+    }, {
+        "question": "15. During the titration of a known Volume of a strong acid with a strong base, there is",
+        "options": [{
+            "letter": "a",
+            "option": "(A) a steady increase in pH."
+        }, {
+            "letter": "b",
+            "option": "(B) sharp increase in pH around the end point."
+        }, {
+            "letter": "c",
+            "option": "(C) a steady decrease in pH."
+        }, {
+            "letter": "d",
+            "option": "(D) a sharp decrease in pH around the end point."
+        }]
+    }, {
+        "question": "16. A solution with a pH of 7.5 would be described as:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Very basic"
+        }, {
+            "letter": "b",
+            "option": "(B) Slightly basic"
+        }, {
+            "letter": "c",
+            "option": "(C) Slightly acidic"
+        }, {
+            "letter": "d",
+            "option": "(D) Very acidic"
+        }]
+    }, {
+        "question": "17. The electrolysis of molten NaCl is an industrial process. What does the electrolysis produce?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Na and Cl2"
+        }, {
+            "letter": "b",
+            "option": "(B) H2 and O2"
+        }, {
+            "letter": "c",
+            "option": "(C) Na+ and Cl-"
+        }, {
+            "letter": "d",
+            "option": "(D) NaOH and Cl2"
+        }]
+    }, {
+        "question": "18. Which of the following metals forms a volatile compound during the extraction process?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Fe"
+        }, {
+            "letter": "b",
+            "option": "(B) Co"
+        }, {
+            "letter": "c",
+            "option": "(C) Ni"
+        }, {
+            "letter": "d",
+            "option": "(D) Cu"
+        }]
+    }, {
+        "question": "19. Which one of the following chemicals is used to disinfect water?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Fluorine"
+        }, {
+            "letter": "b",
+            "option": "(B) Nitrogen"
+        }, {
+            "letter": "c",
+            "option": "(C) Oxygen"
+        }, {
+            "letter": "d",
+            "option": "(D) Chlorine"
+        }]
+    }, {
+        "question": "20. Which of the following is natural polymer?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Nylon"
+        }, {
+            "letter": "b",
+            "option": "(B) PVC"
+        }, {
+            "letter": "c",
+            "option": "(C) Cotton"
+        }, {
+            "letter": "d",
+            "option": "(D) Dacron"
+        }]
+    }, {
+        "question": "21. Why are metals soft and malleable?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Because they are very shiny."
+        }, {
+            "letter": "b",
+            "option": "(B) Because they experience electrostatic repulsion."
+        }, {
+            "letter": "c",
+            "option": "(C) Because of the presence of mobile electrons."
+        }, {
+            "letter": "d",
+            "option": "(D) Because the metal cations can slip over each other fairly easily."
+        }]
+    }, {
+        "question": "22. Which molecule or iron does not have a tetrahedral shape ?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) XeF4"
+        }, {
+            "letter": "b",
+            "option": "(B) SiCl4"
+        }, {
+            "letter": "c",
+            "option": "(C) BF4-"
+        }, {
+            "letter": "d",
+            "option": "(D) NH4+"
+        }]
+    }, {
+        "question": "23. How many π bonds are present in CO2?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) One"
+        }, {
+            "letter": "b",
+            "option": "(B) Two"
+        }, {
+            "letter": "c",
+            "option": "(C) Three"
+        }, {
+            "letter": "d",
+            "option": "(D) Four"
+        }]
+    }, {
+        "question": "24. In which region of the Periodic Table would the element with the electronic structure below be located?:    1s22s22p63s23p63d104s24p64d65s2",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Group 6"
+        }, {
+            "letter": "b",
+            "option": "(B) Noble gases"
+        }, {
+            "letter": "c",
+            "option": "(C) s block"
+        }, {
+            "letter": "d",
+            "option": "(D) d block"
+        }]
+    }, {
+        "question": "25. Which factor will influence the rate of the reaction shown below?   :NO2(g)+CO(g) ⇄ NO(g) + CO2(g)  :I. The number of collusion per second :II. The energy of the collisions :III. The geometry with which the molecules collide",
+        "options": [{
+            "letter": "a",
+            "option": "(A) I only"
+        }, {
+            "letter": "b",
+            "option": "(B) II only"
+        }, {
+            "letter": "c",
+            "option": "(C) I and II only"
+        }, {
+            "letter": "d",
+            "option": "(D) I, II and III"
+        }]
+    }, {
+        "question": "26. Which set of quantum numbers (n,l,ml,ms) is not possible?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1,0,0,1/2"
+        }, {
+            "letter": "b",
+            "option": "(B) 1,1,0,1/2"
+        }, {
+            "letter": "c",
+            "option": "(C) 1,0,0,-1/2"
+        }, {
+            "letter": "d",
+            "option": "(D) 2,1,-1,1/2"
+        }]
+    }, {
+        "question": "27. Which of the following particles contains more electrons then neutrons? : I.1H1    II.35Cl-17  III.39K+19",
+        "options": [{
+            "letter": "a",
+            "option": "(A) I only"
+        }, {
+            "letter": "b",
+            "option": "(B) II only"
+        }, {
+            "letter": "c",
+            "option": "(C) I and II only"
+        }, {
+            "letter": "d",
+            "option": "(D) II and III only"
+        }]
+    }, {
+        "question": "28. Which statement is true about chemical reactions at equilibrium?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) The forward and backward reactions proceed at equal rates."
+        }, {
+            "letter": "b",
+            "option": "(B) The forward and backward reactions have stopped."
+        }, {
+            "letter": "c",
+            "option": "(C) The concentrations of the reactants and products are equal."
+        }, {
+            "letter": "d",
+            "option": "(D) The forward reaction is exothermic."
+        }]
+    }, {
+        "question": "29. Which one of the following atoms in its ground state ha the greatest number of unpaired electrons?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 13A."
+        }, {
+            "letter": "b",
+            "option": "(B) 14Si"
+        }, {
+            "letter": "c",
+            "option": "(C) 15P"
+        }, {
+            "letter": "d",
+            "option": "(D) 16S"
+        }]
+    }, {
+        "question": "30. Which compound contains covalent and ionic bonds ?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Sodium carbonate, Na2CO3"
+        }, {
+            "letter": "b",
+            "option": "(B) Magnesium bromide, MgBr2"
+        }, {
+            "letter": "c",
+            "option": "(C) Dichloromethane, CH2Cl2"
+        }, {
+            "letter": "d",
+            "option": "(D) Ethanoic acid, CH3COOH"
+        }]
+    }, {
+        "question": "31. Which compund is an ester?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) CH3COOH"
+        }, {
+            "letter": "b",
+            "option": "(B) CH3OC2H5"
+        }, {
+            "letter": "c",
+            "option": "(C) C2H5CHO"
+        }, {
+            "letter": "d",
+            "option": "(D) HCOOCH3"
+        }]
+    }, {
+        "question": "32. A triacylglyceol that is solid at room temperature is called:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Lecithin"
+        }, {
+            "letter": "b",
+            "option": "(B) Fat"
+        }, {
+            "letter": "c",
+            "option": "(C) Wax"
+        }, {
+            "letter": "d",
+            "option": "(D) Oil"
+        }]
+    }, {
+        "question": "33. How many moles of sodium hydroxide are present in 2.5L of 0.5 M aqueous solution?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 0.2"
+        }, {
+            "letter": "b",
+            "option": "(B) 0.5"
+        }, {
+            "letter": "c",
+            "option": "(C) 1.25"
+        }, {
+            "letter": "d",
+            "option": "(D) 12.5"
+        }]
+    }, {
+        "question": "34. If a solute dissolves in an endothermic process,",
+        "options": [{
+            "letter": "a",
+            "option": "(A) H bonds must exist between solvent and solute."
+        }, {
+            "letter": "b",
+            "option": "(B) Strong ion-dipole forces must exist in the solution."
+        }, {
+            "letter": "c",
+            "option": "(C) The entropy of the solution must be greater than that of its pure components."
+        }, {
+            "letter": "d",
+            "option": "(D) The solute must be a gas."
+        }]
+    }, {
+        "question": "35. A solution is made by dissolving 250.0 g of potassium chromate crystals (K2CrO4, molar mass, 194.2 g) in 1.00 kg of water. What will be the freezing point of the solution? (Kf for water is 1.86°cm-1).",
+        "options": [{
+            "letter": "a",
+            "option": "(A) -8.87°C"
+        }, {
+            "letter": "b",
+            "option": "(B) -7.18°C"
+        }, {
+            "letter": "c",
+            "option": "(C) -5.73°C"
+        }, {
+            "letter": "d",
+            "option": "(D) -1.86°C"
+        }]
+    }, {
+        "question": "36. The mechanism of a reaction is shown below. :HOOH + I- → HOI + OH- (slow) :HOI + I- → I2 + OH- (fast)   :2OH + 2H3O+ → 4H2O (fast)  :What is the rate law based on this mechanism?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Rate = k[HOOH][I-]"
+        }, {
+            "letter": "b",
+            "option": "(B) Rate = k[HOOH]2[I-]"
+        }, {
+            "letter": "c",
+            "option": "(C) Rate = k[HOOH][I-]2"
+        }, {
+            "letter": "d",
+            "option": "(D) Rate = k[HOOH]"
+        }]
+    }, {
+        "question": "37. What is the equilibrium constant expression for the following reaction?     :2Hg(g)+O2(g) ⇄ 2HgO(s)",
+        "options": [{
+            "letter": "a",
+            "option": "(A) K = 1/([Hg]2[O2])"
+        }, {
+            "letter": "b",
+            "option": "(B) K = [Hg]2[O2]"
+        }, {
+            "letter": "c",
+            "option": "(C) K = [HgO]2 / ([Hg]2 [O]2)"
+        }, {
+            "letter": "d",
+            "option": "(D) K = [2HgO]/([2Hg] [O2])"
+        }]
+    }, {
+        "question": "38. Which changes will increase the amount of SO3(g) at equilibrium?        :2SO2(g) + O2(g) ⇄ 2SO3(g) Δ H° = -197kJ     :I. Increasing the temperature       :II. Decreasing the volume      :III. Adding a catalyst",
+        "options": [{
+            "letter": "a",
+            "option": "(A) I only"
+        }, {
+            "letter": "b",
+            "option": "(B) II only"
+        }, {
+            "letter": "c",
+            "option": "(C) I and III only"
+        }, {
+            "letter": "d",
+            "option": "(D) I, II and III"
+        }]
+    }, {
+        "question": "39. Which pair of monomers forms polyesters?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Difunctional alcohol, difunctional organic acid"
+        }, {
+            "letter": "b",
+            "option": "(B) Difunctional alcohol, difunctional amino acid"
+        }, {
+            "letter": "c",
+            "option": "(C) Ethylene, ethylene"
+        }, {
+            "letter": "d",
+            "option": "(D) Amino acid, amino acid"
+        }]
+    }, {
+        "question": "40. Which compound is a carboxylic acid?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) CH3COOH"
+        }, {
+            "letter": "b",
+            "option": "(B) (CH3CO)2O"
+        }, {
+            "letter": "c",
+            "option": "(C) (CH3)2CHOOCH3"
+        }, {
+            "letter": "d",
+            "option": "(D) (CH3)2O"
+        }]
+    }, {
+        "question": "41. What volume. of 0.500 M NaOH is required to neutralize 25.0 mL of 1.2 M H2SO4? (Assume complete ionization of the acid).",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 60 mL"
+        }, {
+            "letter": "b",
+            "option": "(B) 90 mL"
+        }, {
+            "letter": "c",
+            "option": "(C) 100 mL"
+        }, {
+            "letter": "d",
+            "option": "(D) 120 mL"
+        }]
+    }, {
+        "question": "42. For which conversation is an oxidizing agent required?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 2H+(aq) → H2(g)"
+        }, {
+            "letter": "b",
+            "option": "(B) 2Br(aq) → Br2(aq)"
+        }, {
+            "letter": "c",
+            "option": "(C) SO3(g) → SO42-(aq)"
+        }, {
+            "letter": "d",
+            "option": "(D) MnO2(s) → Mn2+"
+        }]
+    }, {
+        "question": "43. Which statement about the following reaction is correct?    :2FeS(s) + 3 CO2(g) → Fe2O3(s) + 3CO (g) Δ H° = +26.6 kJ",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 26.6 kJ of energy are released for every mole of Fe reacted."
+        }, {
+            "letter": "b",
+            "option": "(B) 26.6 kJ of energy are absorbed for every mole of Fe reacted."
+        }, {
+            "letter": "c",
+            "option": "(C) 53.2 kJ of energy are released for every mole of Fe reacted."
+        }, {
+            "letter": "d",
+            "option": "(D) 13.3 kJ of energy are absorbed for every mole of Fe reacted."
+        }]
+    }, {
+        "question": "44. A gas is confined to a cylinder under constant atmospheric pressure. When the gas undergoes a particular chemical reaction, it releases 135 kJ of heat to its surroundings and does 63 kJ of P-V work on its surroundings. What are the values of ΔH and ΔE for the process?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) ΔH = 135 kJ, ΔE = 63 kJ"
+        }, {
+            "letter": "b",
+            "option": "(B) ΔH = -135kJ, ΔE = -65 kJ"
+        }, {
+            "letter": "c",
+            "option": "(C) ΔH = 135kJ, ΔE = 198 kJ"
+        }, {
+            "letter": "d",
+            "option": "(D) ΔH = -135kJ, ΔE = -198 kJ"
+        }]
+    }, {
+        "question": "45. The oxidation numbers of nitrogen in NH3, HNO3 and NO2 are ________________respectively.",
+        "options": [{
+            "letter": "a",
+            "option": "(A) -3, -5, +4"
+        }, {
+            "letter": "b",
+            "option": "(B) +3, +5, +4"
+        }, {
+            "letter": "c",
+            "option": "(C) -3, +5, -4"
+        }, {
+            "letter": "d",
+            "option": "(D) -3, +5, +4"
+        }]
+    }, {
+        "question": "46. If the solute-solvent interaction are greater than the solute-solute and solvent-solvent interactions, what will be the total vapor pressture of the solution?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Greater than that calculated- from Raoult's law."
+        }, {
+            "letter": "b",
+            "option": "(B) Less than that calculated from Raoult's law."
+        }, {
+            "letter": "c",
+            "option": "(C) The same as calculated from Raoult's law."
+        }, {
+            "letter": "d",
+            "option": "(D) Raoult's law cannot be applied for such interactions."
+        }]
+    }, {
+        "question": "47. Which of the following procedures will produce a buffered solution?     :I. Equal volumes 0.5 M NaOH and 1 M HCl solutions are mixed.    :II. Equal volumes of 0.5 M NaOH 1 M CH3COOH solutions are mixed.   :III. Equal volumes of 1 M NaCH3CO2 and 1 M CH3COOH solutions are mixed.   :IV. Equal volumes of 1.0 M NaOH and 1M HCl solutions are mixed.",
+        "options": [{
+            "letter": "a",
+            "option": "(A) I"
+        }, {
+            "letter": "b",
+            "option": "(B) III"
+        }, {
+            "letter": "c",
+            "option": "(C) I and II"
+        }, {
+            "letter": "d",
+            "option": "(D) II and III ."
+        }]
+    }, {
+        "question": "48. Which of the following statements is true?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) A universal indicator is a mixture of indicators that will give a different colour for a different pH."
+        }, {
+            "letter": "b",
+            "option": "(B) Phenolphthalein is a universal indicator."
+        }, {
+            "letter": "c",
+            "option": "(C) A universal indicator can only be used in either strongly acidic or basic solution."
+        }, {
+            "letter": "d",
+            "option": "(D) The colour of a universal indicator is red in a weak acid."
+        }]
+    }, {
+        "question": "49. Which species CANNOT act as Lewis acid?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) NH3"
+        }, {
+            "letter": "b",
+            "option": "(B) BF3"
+        }, {
+            "letter": "c",
+            "option": "(C) Fe2+"
+        }, {
+            "letter": "d",
+            "option": "(D) AlCl3"
+        }]
+    }, {
+        "question": "50. Three acids, HA, HB, HC have the following Ka values. Ka(HA) = 1 x 10-5 Ka(HB) 2 x 10-5 Ka(HC) = 1 x 10-6 What is the correct order of increasing acid strength (weakest first)?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) HA, HB, HC"
+        }, {
+            "letter": "b",
+            "option": "(B) HC, HB, HA"
+        }, {
+            "letter": "c",
+            "option": "(C) HC, HA, HB"
+        }, {
+            "letter": "d",
+            "option": "(D) HB, HA, HC"
+        }]
+    }, {
+        "question": "51. Which of the following is natural polymer?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Polythene"
+        }, {
+            "letter": "b",
+            "option": "(B) Polysaccharides"
+        }, {
+            "letter": "c",
+            "option": "(C) Nylon"
+        }, {
+            "letter": "d",
+            "option": "(D) Terylene"
+        }]
+    }, {
+        "question": "52. An aqueous solution is 70.0% nitric acid (HNO3) by mass. What is the concentration of HNO3 expressed in molality?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 0.559"
+        }, {
+            "letter": "b",
+            "option": "(B) 8.62m"
+        }, {
+            "letter": "c",
+            "option": "(C) 11.1m"
+        }, {
+            "letter": "d",
+            "option": "(D) 37.0 m"
+        }]
+    }, {
+        "question": "53. When 0.68 is divided by 14.364, the actual answer is 0.0473405. What will be the correct answer?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 0.05"
+        }, {
+            "letter": "b",
+            "option": "(B) 0.047"
+        }, {
+            "letter": "c",
+            "option": "(C) 0.0473"
+        }, {
+            "letter": "d",
+            "option": "(D) 0.04734"
+        }]
+    }, {
+        "question": "54. What is the ionization energy of an iron atom if it requires a radiation of 276 nm to completely remove its outer most electron in the gaseous state?   (Plank's constant, h = 6.626 x 10-34Js,speed of light, c = 3 x 10 8 ms-1)",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 7.21 x 10-19J"
+        }, {
+            "letter": "b",
+            "option": "(B) 7.21 x 10-19kJ"
+        }, {
+            "letter": "c",
+            "option": "(C) 7.21 x 1019J"
+        }, {
+            "letter": "d",
+            "option": "(D) 7.21 x 10 19kJ"
+        }]
+    }, {
+        "question": "55. Which of the electron configuration describes the ground state electron configration of Cl-?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1s22s22p63s23p6"
+        }, {
+            "letter": "b",
+            "option": "(B) 1s22s22p63s1"
+        }, {
+            "letter": "c",
+            "option": "(C) 1s22s22p63p1"
+        }, {
+            "letter": "d",
+            "option": "(D) 1s22s22p63s23px23py1"
+        }]
+    }, {
+        "question": "56. Which one of the following reaction is NOT a redox reaction?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Ag+(aq) + Cl-(aq) → AgCl(s)"
+        }, {
+            "letter": "b",
+            "option": "(B) 2Na(s) + Cl2(g) → 2NaCl(s)"
+        }, {
+            "letter": "c",
+            "option": "(C) Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g)"
+        }, {
+            "letter": "d",
+            "option": "(D) Cu2+(aq) + Zn(s) → Cu(s) + Zn2+(aq)"
+        }]
+    }, {
+        "question": "57. The half-reaction for formation of magnesium metal upon electrolysis of molten MgCl2 is:    Mg2+ + 2e- → Mg :   What is the mass of magnesium formed upon passage of a current of 60.0 A for a period of 2.00 x 103s?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 5.0 g"
+        }, {
+            "letter": "b",
+            "option": "(B) 10.0 g"
+        }, {
+            "letter": "c",
+            "option": "(C) 15.1 g"
+        }, {
+            "letter": "d",
+            "option": "(D) 30.2 g"
+        }]
+    }, {
+        "question": "58. The two standard electrode potential involved in the nickel-cadmium rechargeable cell are given below. Calculate the ΔG° in kJ of the cell. :   NiO2(s) + 2H2S(l) + 2e- → Ni(OH)2 (s) + 2OH- E° = +0.49 V   :  Cd(OH)2 + 2e- → Cd(s) + 2OH-(aq) E° = -0.76 V",
+        "options": [{
+            "letter": "a",
+            "option": "(A) -184"
+        }, {
+            "letter": "b",
+            "option": "(B) -153"
+        }, {
+            "letter": "c",
+            "option": "(C) -241"
+        }, {
+            "letter": "d",
+            "option": "(D) -206"
+        }]
+    }, {
+        "question": "59. Which of the following metals is extracted by thermal reduction process?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Cu"
+        }, {
+            "letter": "b",
+            "option": "(B) Fe"
+        }, {
+            "letter": "c",
+            "option": "(C) Al"
+        }, {
+            "letter": "d",
+            "option": "(D) Mg"
+        }]
+    }, {
+        "question": "60. Which of the following is a synthetic rubber produced from Caprolactam (CPL)?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Nylon 6, 10"
+        }, {
+            "letter": "b",
+            "option": "(B) Terlyene"
+        }, {
+            "letter": "c",
+            "option": "(C) Teflon"
+        }, {
+            "letter": "d",
+            "option": "(D) Nylon 6"
+        }]
+    }, {
+        "question": "61. In a zero-order reaction reaction for every 10° rise of the rate is doubled, If the temprature is increased from 10°C to 100°C, the rate of the reaction will become",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 64 times"
+        }, {
+            "letter": "b",
+            "option": "(B) 128 times"
+        }, {
+            "letter": "c",
+            "option": "(C) 256 times"
+        }, {
+            "letter": "d",
+            "option": "(D) 512 times"
+        }]
+    }, {
+        "question": "62. The half life for the first order decomposition of nitromethane,CH3NO2, at 500K is 650 seconds. If the initial concentration of CH3NO2 is 0.500M, what will its concentration be (M) after 1300 seconds have elapsed?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 0.125"
+        }, {
+            "letter": "b",
+            "option": "(B) 0.140"
+        }, {
+            "letter": "c",
+            "option": "(C) 0.250"
+        }, {
+            "letter": "d",
+            "option": "(D) 0.425"
+        }]
+    }, {
+        "question": "63. The value of Kc for the following equilibrium reaction is 4.0 at a temperature of 373 K.    :   CH3COOH + C2H5OH ⇄ CH3COOHC2H5 + H2O    :  What mass of ethyl ester (CH3COOC2H5) would be present in the equilibrium mixture mixture if 15 g of acetic acid and 11.5 g of ethanol were mixed and equilibrium was established at this temperature?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 5.2"
+        }, {
+            "letter": "b",
+            "option": "(B) 10.1"
+        }, {
+            "letter": "c",
+            "option": "(C) 12.6"
+        }, {
+            "letter": "d",
+            "option": "(D) 14.1"
+        }]
+    }, {
+        "question": "64. Which of the following mathemathical relationships between K, K1 and K2is correct?  :   CO2(g) + H2(g) ⇄ CO(g) + H2O(g)   :    Fe(s) + CO2(g) ⇄ FeO(s) + CO (g)   :    Fe(s) + H2(g) = FeO(s) + H2(g)",
+        "options": [{
+            "letter": "a",
+            "option": "(A) K = K1 + K2"
+        }, {
+            "letter": "b",
+            "option": "(B) K = K1 x K2"
+        }, {
+            "letter": "c",
+            "option": "(C) K = K1/K2"
+        }, {
+            "letter": "d",
+            "option": "(D) K = K2/K1"
+        }]
+    }, {
+        "question": "65. Which of the following gives the correct order of decreasing acidity of carboxylic acids?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Cl3CCOOH, Cl2CHCOOH, FCH2COOH, CH3COOH"
+        }, {
+            "letter": "b",
+            "option": "(B) FCH2COOH, CH3COOH, Cl2CHCOOH, Cl3CCOOH"
+        }, {
+            "letter": "c",
+            "option": "(C) CH3COOH, FCH2COOH, Cl2CHCOOH, Cl3CCOOH"
+        }, {
+            "letter": "d",
+            "option": "(D) Cl2CHCOOH, CH3COOH, FCH2COOH, Cl3CCOOH"
+        }]
+    }, {
+        "question": "66. How many 3d electrons are present in the ground state of chromium atom?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 4"
+        }, {
+            "letter": "b",
+            "option": "(B) 5"
+        }, {
+            "letter": "c",
+            "option": "(C) 6"
+        }, {
+            "letter": "d",
+            "option": "(D) 10"
+        }]
+    }, {
+        "question": "67. When the following substances are arranged in order of increasing melting point (lowest melting point first), the correct order is:",
+        "options": [{
+            "letter": "a",
+            "option": "(A) CH3CH2CH3, CH3COCH3, CH3CH2CH2OH"
+        }, {
+            "letter": "b",
+            "option": "(B) CH3CH2CH3, CH3CH2CH2OH, CH3COCH3"
+        }, {
+            "letter": "c",
+            "option": "(C) CH3COCH3, CH3CH2CH2OH, CH3CH2CH3"
+        }, {
+            "letter": "d",
+            "option": "(D) CH3CH2CH2OH, CH3CH2CH3, CH3COCH3"
+        }]
+    }, {
+        "question": "68. Which of the following molecules or ions will exhibit delocalized bonding?  :   NO2-, NH4+, N3-",
+        "options": [{
+            "letter": "a",
+            "option": "(A) NO2-and N3-"
+        }, {
+            "letter": "b",
+            "option": "(B) NH4+ and N3-"
+        }, {
+            "letter": "c",
+            "option": "(C) NO2-"
+        }, {
+            "letter": "d",
+            "option": "(D) NO2- and NH4+"
+        }]
+    }, {
+        "question": "69. What is the correct molecular electronic configuration for the molecular ion, B2+?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) σ1s2σ*1s2 σ2s2σ*2s2 σ2p2"
+        }, {
+            "letter": "b",
+            "option": "(B) σ1s2σ*1s2 σ2s2σ*2s2 π2py2"
+        }, {
+            "letter": "c",
+            "option": "(C) σ1s2σ*1s2 σ2s2σ*2s2 π2px1"
+        }, {
+            "letter": "d",
+            "option": "(D) σ1s2σ*1s2 σ2s2σ*2s2 π2px1 π2py1"
+        }]
+    }, {
+        "question": "70. Based on the molecular orbital theory, the bond orders of H2, H2+, H2- are ____________, respectively.",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 1, 0, and 0"
+        }, {
+            "letter": "b",
+            "option": "(B) 1, 1/2, and 0"
+        }, {
+            "letter": "c",
+            "option": "(C) 1,0, and 1/2"
+        }, {
+            "letter": "d",
+            "option": "(D) 1, 1/2 and 1/2"
+        }]
+    }, {
+        "question": "71.[A] [B] Initial Rate(mol dm-3sec-1) : 0.1 0.1 1x10-5 : 0.1 0.2 4x10-5 : 0.2 0.1 1x10-5",
+        "options": [{
+            "letter": "a",
+            "option": "(A) order of A = 1 order of B = 0"
+        }, {
+            "letter": "b",
+            "option": "(B) order of A = 0 order of B = 2"
+        }, {
+            "letter": "c",
+            "option": "(C) order of A = 0 order of B = 4"
+        }, {
+            "letter": "d",
+            "option": "(D) order of A = 1 order of B = 2"
+        }]
+    }, {
+        "question": "72. Which of the following is NOT a characteristic of the electrolytic cell containing aqueous solution of NaCl used in the manufacture of sodium hydroxide?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) The sodium hydroxide solution is produced in the electrolytic cell."
+        }, {
+            "letter": "b",
+            "option": "(B) The electrolyte must be a dilute solution of NaCl."
+        }, {
+            "letter": "c",
+            "option": "(C) Hydrogen is produced at the cathode."
+        }, {
+            "letter": "d",
+            "option": "(D) The production of chlorine gas occurs at the anode."
+        }]
+    }, {
+        "question": "73. Which of the following is the most important source for the extraction of iron?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Hematite"
+        }, {
+            "letter": "b",
+            "option": "(B) Bauxite"
+        }, {
+            "letter": "c",
+            "option": "(C) Chalcopyrite"
+        }, {
+            "letter": "d",
+            "option": "(D) Sphalerite"
+        }]
+    }, {
+        "question": "74. Which of the following metals has the highest electrical and termal conductivities of any metal?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) Ag"
+        }, {
+            "letter": "b",
+            "option": "(B) Cu"
+        }, {
+            "letter": "c",
+            "option": "(C) Ni"
+        }, {
+            "letter": "d",
+            "option": "(D) Co"
+        }]
+    }, {
+        "question": "75. Which of the following is a linear polymer?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) High density polyethene (HDPE)"
+        }, {
+            "letter": "b",
+            "option": "(B) Low density polyethene (LDPE)"
+        }, {
+            "letter": "c",
+            "option": "(C) Bakelite"
+        }, {
+            "letter": "d",
+            "option": "(D) Vulcanized rubber"
+        }]
+    }, {
+        "question": "76. Which of these compounds is the ester formed from the reaction of acetic acid and 1-propanol",
+        "options": [{
+            "letter": "a",
+            "option": "(A)"
+        }, {
+            "letter": "b",
+            "option": "(B) "
+        }, {
+            "letter": "c",
+            "option": "(C) "
+        }, {
+            "letter": "d",
+            "option": "(D) "
+        }]
+    }, {
+        "question": "77. A lab instructor is preparing 5.0 liters of 0.10 M Pb(NO3)2 (molecular mass 331)solution. What is the mass required?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) 165.5 g of Pb(NO3)2 and add 5.0 kg of H2O"
+        }, {
+            "letter": "b",
+            "option": "(B) 165.5 g of Pb(NO3)2 and add H2O until the solution has a volume of 5.0 liters."
+        }, {
+            "letter": "c",
+            "option": "(C) 33.1 g of Pb(NO3)2 and add H2O until the solution has a volume of 5.0 liters"
+        }, {
+            "letter": "d",
+            "option": "(D) 33.1 g of Pb(NO3)2 and add 5.0 liters of H2O"
+        }]
+    }, {
+        "question": "78. Which of the following statements is true about the percent ionization of a weak acid?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) It decreases with increasing concentration."
+        }, {
+            "letter": "b",
+            "option": "(B) It increases with decreasing concentration."
+        }, {
+            "letter": "c",
+            "option": "(C) It increases with increasing concentration."
+        }, {
+            "letter": "d",
+            "option": "(D) It decreases with decreasing concentration."
+        }]
+    }, {
+        "question": "79. Which of the following is true about an open system?",
+        "options": [{
+            "letter": "a",
+            "option": "(A) A system that exchanges both energy and matter with its surroundings"
+        }, {
+            "letter": "b",
+            "option": "(B) A system that can not exchange both matter and energy with its surroundings."
+        }, {
+            "letter": "c",
+            "option": "(C) A system that only exchanges matter with its surroundings."
+        }, {
+            "letter": "d",
+            "option": "(D) A system that only exchanges energy with its surroundings."
+        }]
+    }, {
+        "question": "80. What is the value of ΔH for the reaction S(s) → S(g)?   :   S(s) + O2(g) → SO2(g) ΔH = -395kJ :    S(g) + O2(g) → SO2(g) ΔH = -618kJ",
+        "options": [{
+            "letter": "a",
+            "option": "(A) -1013 kJ"
+        }, {
+            "letter": "b",
+            "option": "(B) -223 kJ"
+        }, {
+            "letter": "c",
+            "option": "(C) +223 kJ"
+        }, {
+            "letter": "d",
+            "option": "(D) +1013 kJ"
+        }]
+    }]
+}
